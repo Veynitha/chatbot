@@ -11,7 +11,7 @@ This project demonstrates how to build an interactive chatbot that answers quest
 
 ## 🚀 Features
 
-* **Document Parsing**: Utilizes Azure AI Document Intelligence to extract text from PDF, JPEG/JPG, PNG, BMP, TIFF, HEIF, DOCX, XLSX, PPTX, and HTML files.
+* **Document Parsing**: Utilizes Python-PPTX and Lanchain Pypdf for document parsing.
 * **Semantic Search**: Implements an in-memory vector store for efficient similarity searches.
 * **Conversational Interface**: Offers a Gradio-powered chat interface for user interaction.
 * **Modular Workflow**: Employs LangGraph's `StateGraph` to manage the RAG pipeline.
