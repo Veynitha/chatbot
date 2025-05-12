@@ -41,8 +41,6 @@ Create a `.env` file in the project root directory and add the following variabl
 ```env
 LANGSMITH_API_KEY=your_langsmith_api_key
 GOOGLE_API_KEY=your_google_api_key
-DOCUMENTAI_API_KEY=your_azure_document_intelligence_key
-DOCUMENTAI_ENDPOINT=your_azure_document_intelligence_endpoint
 ```
 
 Replace the placeholder values with your actual API keys and endpoints.
