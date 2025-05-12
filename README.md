@@ -83,12 +83,6 @@ Replace the placeholder values with your actual API keys and endpoints.
 
 ---
 
-## 📸 Screenshots
-
-*Include relevant screenshots of the Gradio interface and any other visualizations here.*
-
----
-
 ## 📍 License
 
 This project is licensed under the [MIT License](LICENSE).
